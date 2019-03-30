@@ -1,0 +1,16 @@
+{
+    "projectName": "Retinal Blood Vessel Segmentation",
+    "problemItSolves": "Biomedical Image Segmentation",
+    "teamMembers": {
+        "1": {
+            "name": "Ishmeher Singh Ahuja",
+            "email": "ishmeherahuja@gmail.com",
+            "telegramUsername": "@Ishmeher"
+        },
+        "2": {
+            "name": "Nidhi Choudhary",
+            "email": "nidhi.chy8@gmail.com",
+            "telegramUsername": "@NidhiChoudhary"
+        }
+    }
+}
