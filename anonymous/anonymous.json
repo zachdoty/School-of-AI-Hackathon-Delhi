@@ -2,7 +2,7 @@
     "projectName": "Cataract detection",
     "description": "Cataract detection using Python ",
     "problemItSolves": "Classification of cataract for disease detection of eyes",
-    "repoURL": "https://github.com/Shashankjain12/School-of-AI-Hackathon-Delhi",
+    "repoURL": "https://github.com/Shashankjain12/Cataract-Detection",
     "teamMembers": {
         "1": {
             "name": "Shashank Jain",
