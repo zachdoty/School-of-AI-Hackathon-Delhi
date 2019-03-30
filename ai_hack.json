@@ -1,0 +1,18 @@
+{
+    "projectName": "Mental illness Detector",
+    "description": "Detecting mental illness based on a questionaire presented to the patient",
+    "problemItSolves": "Reduces the work of a Psychiatrist",
+    "repoURL": "https://github.com/ishaankalsi/Ai_Hackathon.git",
+    "teamMembers": {
+        "1": {
+            "name": "Ishaan kalsi",
+            "email": "ishaankalsi@gmail.com",
+            "telegramUsername": "@Ishaan kalsi"
+        },
+        "2": {
+            "name": "Manu Kumar",
+            "email": "shetty080@gmail.com",
+            "telegramUsername": "@Manukumar Shetty"
+        }
+    }
+}
