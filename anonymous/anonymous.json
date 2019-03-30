@@ -1,0 +1,28 @@
+{
+    "projectName": "Cataract detection",
+    "description": "Cataract detection using Python ",
+    "problemItSolves": "Classification of cataract for disease detection of eyes",
+    "repoURL": "https://github.com/Shashankjain12/Cataract-Detection",
+    "teamMembers": {
+        "1": {
+            "name": "Shashank Jain",
+            "email": "shashankjain291298@gmail.com",
+            
+        },
+        "2": {
+            "name": "Ishank tiwari",
+            "email": "tiwari.ishank@yahoo.com",
+         }
+	"3": {
+		"name":"Sparsh Jain",
+		"email":"sparshjain219@gmail.com",
+		"telegramUsername":"Sparshjain",	
+	}
+	"4":{
+		"name":"Kunal Verma",
+		"email":"vermakunal526@gmail.com",
+		"telegramUsername":"kunalverma007",
+	}
+
+    }
+}
