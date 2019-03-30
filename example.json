@@ -1,0 +1,18 @@
+{
+    "projectName": "Example Project",
+    "description": "Example Project",
+    "problemItSolves": "Example Project",
+    "repoURL": "https://github.com/....",
+    "teamMembers": {
+        "1": {
+            "name": "John Smith",
+            "email": "johnsmith@gmail.com",
+            "telegramUsername": "@johnsmith"
+        },
+        "2": {
+            "name": "John Smith",
+            "email": "johnsmith@gmail.com",
+            "telegramUsername": "@johnsmith"
+        }
+    }
+}
