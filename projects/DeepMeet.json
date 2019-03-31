@@ -1,13 +1,13 @@
 {
-    "projectName": "DPE Meet",
+    "projectName": "DeepMeet",
     "description": "It generates labeled data for disease classification",
     "problemItSolves": "It solves image classification problem of all sorts of diseases",
-    "repoURL": "https://github.com/....",
+    "repoURL": "https://github.com/shyamparmar29/Ai_Hackathon",
     "teamMembers": [
         {
             "name": "Shyam Parmar",
             "email": "shyamp0099@gmail.com",
-            "telegramUsername": "@Shyam"
+            "telegramUsername": "@shyam"
         },
         {
             "name": "Ashish Thakran",
