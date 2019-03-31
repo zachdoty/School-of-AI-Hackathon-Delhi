@@ -3,16 +3,16 @@
     "description": "Our AI model helps in segmentation of legions in fundus photos for Pathological Myopia patients. For this we are using the traditional U-NET model with certain tweaks for metric improvement.",
     "problemItSolves": "The Application provides an interface for ophthalmologist and even the patients to segment out and visualize the lesions in fundus photos for Pathological Myopia patients without any intermediate human intervension",
     "repoURL": "https://github.com/rohitgr7/hack-soi",
-    "teamMembers": {
-        "1": {
+    "teamMembers": [
+        {
             "name": "Anurag Sharma",
             "email": "anurags153@gmail.com",
             "telegramUsername": "@raag33"
         },
-        "2": {
+        {
             "name": "Rohit Gupta",
             "email": "rohitgr1998@gmail.com",
             "telegramUsername": "@rohitgr7"
         }
-    }
+    ]
 }
