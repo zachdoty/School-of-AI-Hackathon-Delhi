@@ -3,19 +3,19 @@
     "description": "It generates labeled data for disease classification",
     "problemItSolves": "It solves image classification problem of all sorts of diseases",
     "repoURL": "https://github.com/....",
-    "teamMembers": {
-        "1": {
+    "teamMembers": [
+        {
             "name": "Shyam Parmar",
             "email": "shyamp0099@gmail.com",
             "telegramUsername": "@Shyam"
         },
-        "2": {
+        {
             "name": "Ashish Thakran",
-            "email": "ashishthakran97@gmail.com",
-        }
-        "3": {
+            "email": "ashishthakran97@gmail.com"
+        },
+        {
             "name": "Raghuram Ramamoorthy",
-            "email": "rrrtchie@gmail.com",
+            "email": "rrrtchie@gmail.com"
         }
-    }
+    ]
 }

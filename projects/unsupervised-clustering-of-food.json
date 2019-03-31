@@ -3,26 +3,26 @@
     "description": "Cluster food-items based on their nutritional composition using PCA.",
     "problemItSolves": "Understanding the relationship between different food items, thus enabling nutritionists to experiment with a wide variety of foods.",
     "repoURL": "https://github.com/RJ722/School-of-AI-Hackathon",
-    "teamMembers": {
-        "1": {
+    "teamMembers": [
+        {
             "name": "Rahul Jha",
             "email": "rahul722j@gmail.com",
             "telegramUsername": "@RJ722"
         },
-        "2": {
+        {
             "name": "Shivam Gupta",
             "email": "shivamgupta7706@gmail.com",
             "telegramUsername": "@shivg7706"
         },
-        "3": {
+        {
             "name": "Husain Haider Zaidi",
             "email": "husainhz7@gmail.com",
             "telegramUsername": "@husainhz7"
         },
-        "4": {
+        {
             "name": "Rajneesh Sharma",
             "email": "rajneeshsharma338@gmail.com",
             "telegramUsername": "@raj_04"
         }
-    }
+    ]
 }

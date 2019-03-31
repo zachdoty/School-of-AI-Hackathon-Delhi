@@ -2,16 +2,16 @@
     "projectName": "Retinal Blood Vessel Segmentation",
     "problemItSolves": "Biomedical Image Segmentation",
     "repoURL": "https://github.com/black-immortal/Retinal-Blood-Vessel-Segmentation",
-    "teamMembers": {
-        "1": {
+    "teamMembers": [
+        {
             "name": "Ishmeher Singh Ahuja",
             "email": "ishmeherahuja@gmail.com",
             "telegramUsername": "@Ishmeher"
         },
-        "2": {
+        {
             "name": "Nidhi Choudhary",
             "email": "nidhi.chy8@gmail.com",
             "telegramUsername": "@NidhiChoudhary"
         }
-    }
+    ]
 }
