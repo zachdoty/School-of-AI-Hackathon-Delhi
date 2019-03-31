@@ -33,8 +33,3 @@ files.filter(el => el.includes(".json")).map(file => {
         generateCertificate(name.name, project.projectName, project.repoURL)
     })
 })
-
-
-
-
-generateCertificate("John Smith")
