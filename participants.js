@@ -1,7 +1,7 @@
 const PDFDocument = require('pdfkit');
 var fs = require('fs');
 
-const generateCertificate = (name) => {
+const generateCertificate = (name, project) => {
     const doc = new PDFDocument({ margin: 5 });
     doc.pipe(fs.createWriteStream(`./certificates/${name}.pdf`));
     doc.image('banner.jpeg', {
@@ -15,14 +15,19 @@ const generateCertificate = (name) => {
         .text(name, 50, 450);
     doc.fontSize(25)
         .font('Roboto-Bold.ttf')
-        .text('WITH THIS CERTIFICATE OF PARTICIPATION', 50, 530);
+        .text('WITH THIS CERTIFICATE OF PARTICIPATION', 50, 500);
+    doc.fontSize(25)
+        .font('Roboto-Bold.ttf')
+        .text(`for building ${project}`, 50, 550);
     doc.end();
 }
 
 var files = fs.readdirSync('./projects/');
 files.filter(el => el.includes(".json")).map(file => {
     content = fs.readFileSync("./projects/" + file, 'utf8')
-    console.log(JSON.parse(content).teamMembers.forEach(name => generateCertificate(name.name)))
+    JSON.parse(content).teamMembers.forEach(name => {
+        generateCertificate(name.name, JSON.parse(content).projectName)
+    })
 })
 
 
