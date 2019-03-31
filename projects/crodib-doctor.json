@@ -3,26 +3,26 @@
     "description": "Our project aims at developing a virtual doctor assistant to identify diabetes and cervial cancer and suggests remedies for both",
     "problemItSolves": "saves disease investigation time and provides instant medicinal solutions to the patients",
     "repoURL": "https://github.com/....",
-    "teamMembers": {
-        "1": {
+    "teamMembers": [
+        {
             "name": "Raunak Goswami",
             "email": "raunakgoshami@gmail.com",
             "telegramUsername": "@raunak_goswami"
         },
-        "2": {
+        {
             "name": "Mridul Gandhi",
             "email": "mridulgandhi411@gmail.com",
             "telegramUsername": "@mridulgandhi411"
         },
-		"3": {
+        {
             "name": "Rohan Arora",
             "email": "rohanjai777@gmail.com",
             "telegramUsername": "@rohanjai777"
         },
-		"4": {
+        {
             "name": "Aaditya Srivastav",
             "email": "11baidu11@gmail.com",
             "telegramUsername": "@Aaditya_Srivastav"
         }
-    }
+    ]
 }
