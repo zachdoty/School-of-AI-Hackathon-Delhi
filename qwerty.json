@@ -1,0 +1,28 @@
+{
+    "projectName": "Detecting Degree of Parkinsonism",
+    "description": "We are developing an application that performs the 'Spiral Test for Parkinsonism' and uses Artificial Intelligence to find the probability of Parkinsonism in the test giver",
+    "problemItSolves": "It solves the problem of having to go to a neurologist's office to perform the test. Now, it can be simply given on an Android Phone or a computer and the results can be relayed to the doctor instantly",
+    "repoURL": "https://github.com/karanjot21/Parkinsons-Disease.git",
+    "teamMembers": {
+        "1": {
+            "name": "Karanjot Singh",
+            "email": "holla@karanjot.com",
+            "telegramUsername": "@kjo21"
+        },
+        "2": {
+            "name": "Kunal Gupta",
+            "email": "upanshug53@gmail.com",
+            "telegramUsername": "@kunalgupta007"
+        },
+        "3": {
+            "name": "Vishwas Latiyan",
+            "email": "vishwas.latiyan007@gmail.com",
+            "telegramUsername": "@imshambles"
+        },
+        "4": {
+            "name": "Manan Raheja",
+            "email": "manan.raheja13@gmail.com",
+            "telegramUsername": "@mananraheja"
+        }
+    }
+}
